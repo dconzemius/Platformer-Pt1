@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9e6568559d6661b4eba05e67f1401a83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rockPrefab: {fileID: 3491063496733820195, guid: 43a932fb6ce45c44fb185507e6b09bae, type: 3}
+  - brickPrefab: {fileID: 3491063496733820195, guid: 953d6dcfb986f9c4e8686cd9e749fb5a, type: 3}
+  - questionBoxPrefab: {fileID: 3491063496733820195, guid: 83b13540ba4d3694895484a41587a99d, type: 3}
+  - stonePrefab: {fileID: 3491063496733820195, guid: 44e6fc1d9a1dcdb4c8f0596bc6a8ea35, type: 3}
+  - environmentRoot: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
